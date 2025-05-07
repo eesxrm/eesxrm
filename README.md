@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hey there, I'm Eesar!
 
-<!--
-**eesxrm/eesxrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science undergraduate passionate about tech, creativity, and solving real-world problems with code.  
+🔐 I'm especially interested in Cyber Security, Cloud Computing, and Application Development.  
+🎮 I’ve worked with Sony PlayStation on game design, explored app security with the NHS, and gained hands-on cloud experience with Cisco and Bloomberg.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
+- 🧠 Building innovative projects for uni and personal growth  
+- 🌐 Creating a responsive 7-page personal website from scratch  
+- 💬 Developing a custom messaging system with added features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech & Tools I Use
+- HTML, CSS, JavaScript  
+- Python, Power Apps, Unity, Visual Studio  
+- Git & GitHub  
+- Cloud tools (Azure, AWS basics), Cybersecurity platforms
+
+## 🌟 Fun Facts
+- 🎨 I do Henna art and post on TikTok  
+- 🛍️ I work part-time in retail and logistics (Superdrug, Tesco, Matalan)  
+- 🧭 I'm a proud Scout and team leader in several roles
+
+## 📫 Let's Connect!
+- 💼 [LinkedIn](www.linkedin.com/in/eesar-matharu-598b62259) 
+- 🌐 *(Coming Soon!)*
+
+---
+
+Thanks for stopping by! 🙌
