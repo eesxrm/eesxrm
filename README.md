@@ -22,7 +22,7 @@
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](www.linkedin.com/in/eesar-matharu-598b62259) 
-- 🌐 https://eesxrm.github.io
+- 🌐 [Website](https://eesxrm.github.io) 
 
 ---
 
