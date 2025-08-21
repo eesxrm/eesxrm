@@ -17,12 +17,12 @@
 
 ## 🌟 Fun Facts
 - 🎨 I do Henna art and post on TikTok  
-- 🛍️ I work part-time in retail and logistics (Superdrug, Tesco, Matalan)  
+- 🛍️ I work part-time in retail and logistics 
 - 🧭 I'm a proud Scout and team leader in several roles
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](www.linkedin.com/in/eesar-matharu-598b62259) 
-- 🌐 *(Coming Soon!)*
+- 🌐 (https://eesxrm.github.io)
 
 ---
 
