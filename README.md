@@ -21,7 +21,7 @@
 - 🧭 I'm a proud Scout and team leader in several roles
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](www.linkedin.com/in/eesar-matharu-) 
+- 💼 [LinkedIn](www.linkedin.com/in/eesar-matharu) 
 - 🌐 [Website](https://eesxrm.github.io) 
 
 ---
